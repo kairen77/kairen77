@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Kairen. Welcome to my GitHub profile!
 
 <!--
 **kairen77/kairen77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
