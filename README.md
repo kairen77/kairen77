@@ -1,3 +1,5 @@
+<div align="center">
+
 # Hi, I'm Kairen 👋
 
 Welcome to my GitHub profile!
@@ -6,6 +8,11 @@ Welcome to my GitHub profile!
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,py,mysql" />
+</p>
+
+<p>
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
   <img src="https://img.shields.io/badge/PAWNO-F39C12?style=for-the-badge" />
 </p>
+
+</div>
