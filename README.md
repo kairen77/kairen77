@@ -4,9 +4,6 @@
 
 Welcome to my GitHub profile!
 
-Passionate about technology and always learning something new.
-
-### 💻 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,py,mysql" />
