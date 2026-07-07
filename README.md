@@ -1,95 +1,61 @@
+````md
 <div align="center">
 
-# Hey there, I'm Kairen 👋
+# Hi, I'm Kairen 👋
 
-### Building immersive game systems & clean backend solutions.
+### Passionate about technology, creativity, and building meaningful projects.
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=3B82F6&center=true&vCenter=true&width=600&lines=FiveM+Developer;Lua+%7C+JavaScript+%7C+C%2B%2B;Backend+Enthusiast;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Technology+Enthusiast;Always+Learning;Problem+Solver;Open+to+New+Ideas"/>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-```cpp
-class Kairen {
-public:
-    string role = "Game Developer";
-    string focus = "FiveM Development";
-
-    vector<string> languages = {
-        "Lua",
-        "JavaScript",
-        "C++",
-        "Python",
-        "HTML",
-        "CSS"
-    };
-
-    vector<string> interests = {
-        "Game Systems",
-        "Server Architecture",
-        "UI/UX",
-        "Optimization",
-        "Backend"
-    };
-
-    string motto = "Build it clean. Build it fast.";
-};
+```text
+Name      : Kairen
+Focus     : Technology
+Interests : Open Source • Automation • Design • Gaming
+Learning  : Something new every day
 ```
 
 ---
 
-## ⚡ Tech Stack
+## Tech Stack
 
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=cpp,lua,js,html,css,python,mysql,git,github,vscode"/>
-
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,lua,js,python,html,css,mysql,git,github,vscode"/>
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ---
 
-## 🎯 Current Focus
+## Currently
 
-- 🚧 Building advanced FiveM resources
-- ⚙️ Backend & server architecture
-- 🎨 Modern game UI
-- 🚀 Performance optimization
-- 📚 Learning new technologies every day
-
----
-
-## 🌌 Philosophy
-
-> **"Code is more than functionality.  
-> It is architecture, performance, and craftsmanship."**
+- 🌱 Exploring new technologies
+- 💡 Working on personal projects
+- 🚀 Improving every day
 
 ---
 
 <div align="center">
 
+> *"Stay curious. Keep building. Never stop learning."*
+
 ![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue)
 
-### Thanks for visiting 👋
-
 </div>
+````
