@@ -1,13 +1,1 @@
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,25:1a1a2e,50:16213e,75:1a1a2e,100:0a0a0a&height=200&section=header&text=Hi,%20I'm%20Kairen&fontSize=45&fontColor=e8e8e8&animation=fadeIn&fontAlignY=42&desc=Welcome%20To%20My%20Github%20Profile&descAlignY=58&descSize=18&descColor=8892B0"/>
-
-<sub>✦ STACK ✦</sub>
-<br><br>
-<img src="https://skillicons.dev/icons?i=js,py,lua,html,css,mysql&theme=dark" />
-<img width="48" height="48" src="https://placehold.co/48x48/1e3a8a/ffffff?text=PAWN&font=roboto" title="Pawn" />
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kairen77&theme=radical&hide_border=true&background=0D1117&stroke=64FFDA&ring=64FFDA&fire=64FFDA&currStreakLabel=64FFDA&sideLabels=8892B0&sideNums=e8e8e8&dates=8892B0&card_width=800" />
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,25:1a1a2e,50:16213e,75:1a1a2e,100:0a0a0a&height=120&section=footer"/>
-</div>
+<dIv aLiGn="&#99;&#101;&#110;&#116;&#101;&#114;"><!--_--><ImG WiDtH="100%" sRc="h&#116;t&#112;s&#58;&#47;&#47;c&#97;ps&#117;l&#101;-r&#101;nd&#101;r.v&#101;rc&#101;l.&#97;p&#112;/ap&#105;?typ&#101;=w&#97;v&#105;ng&c&#111;l&#111;r=0:0a0a0a,25:1a1a2e,50:16213e,75:1a1a2e,100:0a0a0a&h&#101;&#105;ght=200&s&#101;ct&#105;&#111;n=h&#101;&#97;d&#101;r&t&#101;xt=H&#105;,%20I'm%20K&#97;&#105;r&#101;n&f&#111;ntS&#105;z&#101;=45&f&#111;ntC&#111;l&#111;r=e8e8e8&an&#105;m&#97;t&#105;&#111;n=f&#97;d&#101;In&f&#111;ntAl&#105;gnY=42&d&#101;sc=W&#101;lc&#111;m&#101;%20T&#111;%20My%20G&#105;thub%20Pr&#111;f&#105;l&#101;&d&#101;scAl&#105;gnY=58&d&#101;scS&#105;z&#101;=18&d&#101;scC&#111;l&#111;r=8892B0"/><!--_--><sUb>&#10022; &#83;&#84;&#65;&#67;&#75; &#10022;</sUb><bR><Br><iMg sRc="h&#116;t&#112;s&#58;&#47;&#47;sk&#105;ll&#105;c&#111;ns.d&#101;v/&#105;c&#111;ns?i=js,py,lu&#97;,html,css,mysq&#108;&th&#101;m&#101;=d&#97;rk"/><ImG WiDtH="48" HeIgHt="48" sRc="h&#116;t&#112;s&#58;&#47;&#47;pl&#97;c&#101;h&#111;ld.c&#111;/48x48/1e3a8a/ffffff?t&#101;xt=P&#65;WN&f&#111;nt=r&#111;b&#111;t&#111;" tItL&#101;="&#80;&#97;&#119;&#110;"/><Br><bR><!--_--><iMg sRc="h&#116;t&#112;s&#58;&#47;&#47;g&#105;thub-r&#101;&#97;dm&#101;-str&#101;&#97;k-st&#97;ts.h&#101;r&#111;ku&#97;p&#112;.c&#111;m/?us&#101;r=k&#97;&#105;r&#101;n77&th&#101;m&#101;=r&#97;d&#105;c&#97;l&h&#105;d&#101;_b&#111;rd&#101;r=tru&#101;&b&#97;ckgr&#111;und=0D1117&str&#111;k&#101;=64FFDA&r&#105;ng=64FFDA&f&#105;r&#101;=64FFDA&currStr&#101;&#97;kL&#97;b&#101;l=64FFDA&s&#105;d&#101;L&#97;b&#101;ls=8892B0&s&#105;d&#101;Nums=e8e8e8&d&#97;t&#101;s=8892B0&c&#97;rd_w&#105;dth=800"/><!--_--><ImG WiDtH="100%" sRc="h&#116;t&#112;s&#58;&#47;&#47;c&#97;ps&#117;l&#101;-r&#101;nd&#101;r.v&#101;rc&#101;l.&#97;p&#112;/ap&#105;?typ&#101;=w&#97;v&#105;ng&c&#111;l&#111;r=0:0a0a0a,25:1a1a2e,50:16213e,75:1a1a2e,100:0a0a0a&h&#101;&#105;ght=120&s&#101;ct&#105;&#111;n=f&#111;&#111;t&#101;r"/></dIv>
