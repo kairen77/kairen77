@@ -3,7 +3,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=2800&pause=1200&color=C9D1D9&center=true&vCenter=true&width=500&lines=Peace+and+Love;Scripting+in+the+shadows;Building+quiet%2C+reliable+systems" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=2800&pause=1200&color=C9D1D9&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+profile;Glad+to+have+you+here" />
 
 <br><br>
 
