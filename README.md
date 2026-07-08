@@ -4,10 +4,6 @@
 
 <br>
 
-### Profile
-
-Peace and love. I build backend tools and gameplay scripts for live server environments — leaderboard systems, backup pipelines, and automation that runs quietly and reliably.
-
 <br>
 
 ### Stack
