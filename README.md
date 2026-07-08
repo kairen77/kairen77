@@ -1,19 +1,15 @@
 <div align="center">
 
-<br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:141414,100:0a0a0a&height=180&section=header&text=KAIREN&fontSize=50&fontColor=e0e0e0&fontAlignY=45&animation=fadeIn"/>
 
-<h1 align="center" style="font-weight: 300; letter-spacing: 8px; color: #d4d4d4;">KAIREN</h1>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=2000&color=666666&center=true&vCenter=true&width=380&lines=quietly+figuring+things+out;always+mid-project;curious%2C+mostly" alt="typing"/>
-</p>
+<p align="center" style="color:#888; font-family:monospace;">always tinkering with something</p>
 
 <br>
 
 <img src="https://skillicons.dev/icons?i=js,py,lua,html,css,mysql&theme=dark" />
 
-<br><br><br>
+<br><br>
 
-<sub>◦ ◦ ◦</sub>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:141414,100:0a0a0a&height=100&section=footer"/>
 
 </div>
