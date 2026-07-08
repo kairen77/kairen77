@@ -7,36 +7,37 @@
 
 <table>
 <tr>
-<td align="center" width="160" style="border: 2px solid #F7DF1E; border-radius: 8px; background: transparent;">
-<img src="https://skillicons.dev/icons?i=js" width="32" height="32" valign="middle"/> <b>JavaScript</b>
+<td align="center" width="150" style="border: 2px solid #F7DF1E; border-radius: 8px; background: transparent;">
+<img src="https://skillicons.dev/icons?i=js" width="28" height="28" valign="middle"/> <b>JavaScript</b>
 </td>
-<td align="center" width="160" style="border: 2px solid #3776AB; border-radius: 8px; background: transparent;">
-<img src="https://skillicons.dev/icons?i=py" width="32" height="32" valign="middle"/> <b>Python</b>
+<td width="12" style="border: none;"></td>
+<td align="center" width="150" style="border: 2px solid #3776AB; border-radius: 8px; background: transparent;">
+<img src="https://skillicons.dev/icons?i=py" width="28" height="28" valign="middle"/> <b>Python</b>
 </td>
-</tr>
-<tr>
-<td align="center" width="160" style="border: 2px solid #2C2D72; border-radius: 8px; background: transparent;">
-<img src="https://skillicons.dev/icons?i=lua" width="32" height="32" valign="middle"/> <b>Lua</b>
+<td width="12" style="border: none;"></td>
+<td align="center" width="150" style="border: 2px solid #2C2D72; border-radius: 8px; background: transparent;">
+<img src="https://skillicons.dev/icons?i=lua" width="28" height="28" valign="middle"/> <b>Lua</b>
 </td>
-<td align="center" width="160" style="border: 2px solid #8B8FA3; border-radius: 8px; background: transparent;">
-<img width="32" height="32" valign="middle" src="https://cdn.jsdelivr.net/gh/kairen77/kairen77@main/pawno-icon.png" title="Pawno"/> <b>Pawno</b>
-</td>
-</tr>
-<tr>
-<td align="center" width="160" style="border: 2px solid #E34F26; border-radius: 8px; background: transparent;">
-<img src="https://skillicons.dev/icons?i=html" width="32" height="32" valign="middle"/> <b>HTML</b>
-</td>
-<td align="center" width="160" style="border: 2px solid #1572B6; border-radius: 8px; background: transparent;">
-<img src="https://skillicons.dev/icons?i=css" width="32" height="32" valign="middle"/> <b>CSS</b>
+<td width="12" style="border: none;"></td>
+<td align="center" width="150" style="border: 2px solid #8B8FA3; border-radius: 8px; background: transparent;">
+<img width="28" height="28" valign="middle" src="https://cdn.jsdelivr.net/gh/kairen77/kairen77@main/pawno-icon.png" title="Pawno"/> <b>Pawno</b>
 </td>
 </tr>
+<tr><td colspan="7" height="12" style="border: none;"></td></tr>
 <tr>
-<td align="center" width="160" style="border: 2px solid #8B8FA3; border-radius: 8px; background: transparent;">
-<img width="32" height="32" valign="middle" src="https://cdn.jsdelivr.net/gh/kairen77/kairen77@main/pawno-icon.png" title="Pawno"/> <b>Pawno</b>
+<td align="center" width="150" style="border: 2px solid #E34F26; border-radius: 8px; background: transparent;">
+<img src="https://skillicons.dev/icons?i=html" width="28" height="28" valign="middle"/> <b>HTML</b>
 </td>
-<td align="center" width="160" style="border: 2px solid #4479A1; border-radius: 8px; background: transparent;">
-<img src="https://skillicons.dev/icons?i=mysql" width="32" height="32" valign="middle"/> <b>MySQL</b>
+<td width="12" style="border: none;"></td>
+<td align="center" width="150" style="border: 2px solid #1572B6; border-radius: 8px; background: transparent;">
+<img src="https://skillicons.dev/icons?i=css" width="28" height="28" valign="middle"/> <b>CSS</b>
 </td>
+<td width="12" style="border: none;"></td>
+<td align="center" width="150" style="border: 2px solid #4479A1; border-radius: 8px; background: transparent;">
+<img src="https://skillicons.dev/icons?i=mysql" width="28" height="28" valign="middle"/> <b>MySQL</b>
+</td>
+<td width="12" style="border: none;"></td>
+<td width="150" style="border: none;"></td>
 </tr>
 </table>
 
