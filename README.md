@@ -13,10 +13,6 @@
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=kairen77&theme=darkhub&no-frame=true&no-bg=true&row=1&column=4&margin-w=8" />
-
-<br>
-
 ### Connect
 
 <a href="https://discord.com/users/YOUR_DISCORD_ID">
