@@ -5,43 +5,16 @@
 
 <h3>Stack</h3>
 
-<table>
-<tr>
-<td align="center" width="150" style="border: none; border-radius: 8px; background: #F7DF1E;">
-<img src="https://skillicons.dev/icons?i=js" width="28" height="28" valign="middle"/> <b style="color:#000000;">JavaScript</b>
-</td>
-<td width="12" style="border: none;"></td>
-<td align="center" width="150" style="border: none; border-radius: 8px; background: #3776AB;">
-<img src="https://skillicons.dev/icons?i=py" width="28" height="28" valign="middle"/> <b style="color:#ffffff;">Python</b>
-</td>
-<td width="12" style="border: none;"></td>
-<td align="center" width="150" style="border: none; border-radius: 8px; background: #2C2D72;">
-<img src="https://skillicons.dev/icons?i=lua" width="28" height="28" valign="middle"/> <b style="color:#ffffff;">Lua</b>
-</td>
-<td width="12" style="border: none;"></td>
-<td align="center" width="150" style="border: none; border-radius: 8px; background: #0074C1;">
-<img width="28" height="28" valign="middle" src="https://cdn.jsdelivr.net/gh/kairen77/kairen77@main/pawno-icon.png" title="Pawno"/> <b style="color:#ffffff;">Pawno</b>
-</td>
-</tr>
-<tr><td colspan="7" height="12" style="border: none;"></td></tr>
-<tr>
-<td align="center" width="150" style="border: none; border-radius: 8px; background: #E34F26;">
-<img src="https://skillicons.dev/icons?i=html" width="28" height="28" valign="middle"/> <b style="color:#ffffff;">HTML</b>
-</td>
-<td width="12" style="border: none;"></td>
-<td align="center" width="150" style="border: none; border-radius: 8px; background: #1572B6;">
-<img src="https://skillicons.dev/icons?i=css" width="28" height="28" valign="middle"/> <b style="color:#ffffff;">CSS</b>
-</td>
-<td width="12" style="border: none;"></td>
-<td align="center" width="150" style="border: none; border-radius: 8px; background: #4479A1;">
-<img src="https://skillicons.dev/icons?i=mysql" width="28" height="28" valign="middle"/> <b style="color:#ffffff;">MySQL</b>
-</td>
-<td width="12" style="border: none;"></td>
-<td width="150" style="border: none;"></td>
-</tr>
-</table>
-
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pawno-0074C1?style=for-the-badge&logo=data:image/png;base64,PLACEHOLDER&logoColor=white"/>
 <br>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<br><br>
 
 <h3>Connect</h3>
 
