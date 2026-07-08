@@ -11,12 +11,6 @@
 <img src="https://skillicons.dev/icons?i=js,py,lua,html,css,mysql&theme=dark" />
 <img width="48" height="48" src="https://raw.githubusercontent.com/kairen77/kairen77/main/pawno-icon.png" title="Pawno" />
 
-<br><br>
-
-<img alt="contribution snake" src="https://raw.githubusercontent.com/kairen77/kairen77/output/snake.svg" width="100%" />
-
-<br><br>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,25:1a1a2e,50:16213e,75:1a1a2e,100:0a0a0a&height=120&section=footer"/>
 
 </div>
