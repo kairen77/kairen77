@@ -8,24 +8,10 @@
 
 <br><br>
 
-<img src="https://img.shields.io/badge/status-experimenting-64FFDA?style=for-the-badge&labelColor=0a0a0a" />
-<img src="https://img.shields.io/badge/followers-11-8892B0?style=for-the-badge&labelColor=0a0a0a" />
-<img src="https://img.shields.io/badge/repos-3-8892B0?style=for-the-badge&labelColor=0a0a0a" />
-
-<br><br>
-
-## 🛠️ stack
-
-<br>
-
 <img src="https://skillicons.dev/icons?i=js,py,lua,html,css,mysql&theme=dark" />
 <img width="48" height="48" src="https://placehold.co/48x48/1e3a8a/ffffff?text=PAWN&font=roboto" title="Pawn" style="border-radius:8px" />
 
 <br><br>
-
-## 📊 stats
-
-<br>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kairen77&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=64FFDA&icon_color=64FFDA&text_color=8892B0" />
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kairen77&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=64FFDA&text_color=8892B0" />
@@ -35,10 +21,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kairen77&theme=dark&hide_border=true&background=0a0a0a&stroke=1a1a2e&ring=64FFDA&fire=64FFDA&currStreakLabel=64FFDA" />
 
 <br><br>
-
-## 🐍 activity
-
-<br>
 
 <img src="https://raw.githubusercontent.com/kairen77/kairen77/output/github-contribution-grid-snake-dark.svg" />
 
