@@ -15,7 +15,7 @@
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kairen77&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=64FFDA&text_color=E8E8E8&langs_count=8&card_width=800" />
+<img src="https://github-profile-trophy.vercel.app/?username=kairen77&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4" />
 
 <br><br>
 
