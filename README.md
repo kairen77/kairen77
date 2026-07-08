@@ -25,5 +25,3 @@
 <br><br>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:0f0f0f&height=100&section=footer"/>
 </div>
-
-Perubahan: Lua dan Pawno sekarang sejajar dalam satu baris karena keduanya pakai `style=for-the-badge` yang sama tingginya (badge sebelumnya beda ukuran teks jadi kelihatan turun baris). Icon Pawno diganti pakai SVG bintang custom biar beda dari sebelumnya dan lebih jelas sebagai simbol/logo, bukan cuma tanda silang generik.
