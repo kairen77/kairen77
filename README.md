@@ -11,17 +11,6 @@
 
 <br><br>
 
-<table>
-<tr>
-<td align="center" width="33%">
-
-**102**
-<br>
-<sub>total contributions</sub>
-
-</td>
-<td align="center" width="33%">
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,25:1a1a2e,50:16213e,75:1a1a2e,100:0a0a0a&height=120&section=footer"/>
 
 </div>
