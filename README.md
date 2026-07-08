@@ -9,7 +9,7 @@
 ### stack
 
 <img src="https://skillicons.dev/icons?i=js,py,lua,html,css,mysql&theme=dark" />
-<img width="48" height="48" src="https://raw.githubusercontent.com/kairen77/kairen77/main/pawno-icon.png" title="Pawno" />
+<img src="https://img.shields.io/badge/PAWN-1e3a8a?style=for-the-badge&labelColor=1e3a8a&color=1e3a8a" title="Pawno" />
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,25:1a1a2e,50:16213e,75:1a1a2e,100:0a0a0a&height=120&section=footer"/>
 
