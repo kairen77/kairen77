@@ -5,7 +5,7 @@
 
 ### Stack
 
-<img src="https://skillicons.dev/icons?i=js,py,lua,html,css,mysql&theme=dark" /> <img width="48" height="48" src="https://raw.githubusercontent.com/kairen77/kairen77/main/pawno-icon.png" />
+<img src="https://skillicons.dev/icons?i=js,py,lua,html,css,mysql&theme=dark" /> <img width="48" height="48" src="https://img.shields.io/badge/-Pawno-1976D2?style=flat-square" />
 <br><br>
 
 ### Connect
