@@ -7,57 +7,27 @@
 
 ### Stack
 
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=js" width="40" height="40"/><br>
-<b>JavaScript</b>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=py" width="40" height="40"/><br>
-<b>Python</b>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=lua" width="40" height="40"/><br>
-<b>Lua</b>
-</td>
-<td align="center" width="96">
-<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/kairen77/kairen77@main/pawno-icon.png" title="Pawno"/><br>
-<b>Pawno</b>
-</td>
-</tr>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=html" width="40" height="40"/><br>
-<b>HTML</b>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=css" width="40" height="40"/><br>
-<b>CSS</b>
-</td>
-<td align="center" width="96">
-<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/kairen77/kairen77@main/pawno-icon.png" title="Pawno"/><br>
-<b>Pawno</b>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=mysql" width="40" height="40"/><br>
-<b>MySQL</b>
-</td>
-</tr>
-</table>
-
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/Lua-000000?style=for-the-badge&logo=lua&logoColor=2C2D72"/>
+<img src="https://img.shields.io/badge/Pawno-000000?style=for-the-badge&logo=c&logoColor=A8B9CC"/>
 <br>
+<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
+
+<br><br>
 
 ### Connect
 
 <a href="https://discord.com/users/YOUR_DISCORD_ID">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+<img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=5865F2"/>
 </a>
 <a href="https://youtube.com/@YOUR_CHANNEL">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+<img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=FF0000"/>
 </a>
 <a href="https://indexcode.tebex.io/">
-<img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=4285F4"/>
 </a>
 
 <br><br>
