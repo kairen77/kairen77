@@ -5,10 +5,7 @@
 
 ### Stack
 
-<img src="https://skillicons.dev/icons?i=py,lua,js,html,css,mysql&theme=dark" />
-<br><br>
-<img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pawno-black?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZmZmZiI+PHBhdGggZD0iTTEyIDBMMTQuNjkgOC4zMUwyNCA4LjMxTDE2LjY1IDEzLjM4TDE5LjM0IDIxLjY5TDEyIDE2LjYyTDQuNjYgMjEuNjlMNy4zNSAxMy4zOEwwIDguMzFMOS4zMSA4LjMxWiIvPjwvc3ZnPg==&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=js,py,lua,html,css,mysql&theme=dark" /> <img src="https://img.shields.io/badge/Pawno-black?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZmZmZiI+PHBhdGggZD0iTTEyIDBMMTQuNjkgOC4zMUwyNCA4LjMxTDE2LjY1IDEzLjM4TDE5LjM0IDIxLjY5TDEyIDE2LjYyTDQuNjYgMjEuNjlMNy4zNSAxMy4zOEwwIDguMzFMOS4zMSA4LjMxWiIvPjwvc3ZnPg==&logoColor=white&labelColor=1a1a1a"/>
 <br><br>
 
 ### Connect
