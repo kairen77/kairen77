@@ -9,3 +9,7 @@
 <img src="https://skillicons.dev/icons?i=js,py,lua,html,css,mysql&theme=dark" /> <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/kairen77/kairen77@main/pawno-icon.png" title="Pawno" />
 
 <br><br>
+
+<br><br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:0f0f0f&height=100&section=footer"/>
+</div>
