@@ -22,23 +22,6 @@
 </td>
 <td align="center" width="33%">
 
-**2** 🔥
-<br>
-<sub>current streak</sub>
-
-</td>
-<td align="center" width="33%">
-
-**2**
-<br>
-<sub>longest streak</sub>
-
-</td>
-</tr>
-</table>
-
-<br>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,25:1a1a2e,50:16213e,75:1a1a2e,100:0a0a0a&height=120&section=footer"/>
 
 </div>
