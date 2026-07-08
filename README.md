@@ -22,5 +22,3 @@
 <br><br>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:0f0f0f&height=100&section=footer"/>
 </div>
-
-Kalau kamu mau, bilang aja "buatkan file-nya" — aku bisa siapkan PNG kotaknya sekalian supaya tinggal kamu upload, tanpa perlu edit apa pun lagi di kode markdown-nya.
