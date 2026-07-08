@@ -1,7 +1,5 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a1a&height=180&section=header&text=KAIREN&fontSize=60&fontColor=ffffff&fontAlignY=35&animation=twinkling"/>
-
-<br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a1a&height=180&section=header&text=KAIREN&fontSize=60&fontColor=ffffff&fontAlignY=50&animation=twinkling"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=2800&pause=1200&color=C9D1D9&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+profile;Glad+to+have+you+here" />
 
@@ -9,9 +7,46 @@
 
 ### Stack
 
-<img src="https://skillicons.dev/icons?i=js,py,lua,html,css,mysql&theme=dark" /> <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/kairen77/kairen77@main/pawno-icon.png" title="Pawno" />
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=js" width="40" height="40"/><br>
+<b>JavaScript</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=py" width="40" height="40"/><br>
+<b>Python</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=lua" width="40" height="40"/><br>
+<b>Lua</b>
+</td>
+<td align="center" width="96">
+<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/kairen77/kairen77@main/pawno-icon.png" title="Pawno"/><br>
+<b>Pawno</b>
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=html" width="40" height="40"/><br>
+<b>HTML</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=css" width="40" height="40"/><br>
+<b>CSS</b>
+</td>
+<td align="center" width="96">
+<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/kairen77/kairen77@main/pawno-icon.png" title="Pawno"/><br>
+<b>Pawno</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mysql" width="40" height="40"/><br>
+<b>MySQL</b>
+</td>
+</tr>
+</table>
 
-<br><br>
+<br>
 
 ### Connect
 
@@ -26,7 +61,5 @@
 </a>
 
 <br><br>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:0f0f0f&height=100&section=footer"/>
-
 </div>
