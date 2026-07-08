@@ -5,7 +5,7 @@
 
 ### Stack
 
-<img src="https://skillicons.dev/icons?i=js,py,lua,html,css,mysql&theme=dark" /> <img src="https://img.shields.io/badge/Pawno-1E88E5?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZmZmZiI+PHBhdGggZD0iTTEyIDNjLTEuNjYgMC0zIDEuMzQtMyAzczEuMzQgMyAzIDMgMy0xLjM0IDMtMy0xLjM0LTMtMy0zem0tMy41IDcuNWMtMS4zOCAwLTIuNSAxLjEyLTIuNSAyLjVWMTVoMTJ2LTJjMC0xLjM4LTEuMTItMi41LTIuNS0yLjVoLTd6TTcgMTdoMTB2Mkg3eiIvPjwvc3ZnPg==&logoColor=white&labelColor=1a1a1a"/>
+<img src="https://skillicons.dev/icons?i=js,py,lua,html,css,mysql&theme=dark" /> <img width="48" height="48" src="https://raw.githubusercontent.com/kairen77/kairen77/main/pawno-icon.png" />
 <br><br>
 
 ### Connect
@@ -22,3 +22,5 @@
 <br><br>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:0f0f0f&height=100&section=footer"/>
 </div>
+
+Kalau kamu mau, bilang aja "buatkan file-nya" — aku bisa siapkan PNG kotaknya sekalian supaya tinggal kamu upload, tanpa perlu edit apa pun lagi di kode markdown-nya.
