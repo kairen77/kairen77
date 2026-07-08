@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Kairen 👋
+# Hi, I'm Kairen 
 
 Welcome to my GitHub profile!
 
