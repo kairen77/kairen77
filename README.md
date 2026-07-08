@@ -1,35 +1,57 @@
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a1a&height=180&section=header&text=KAIREN&fontSize=60&fontColor=ffffff&fontAlignY=50&animation=twinkling"/>
-
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=2800&pause=1200&color=C9D1D9&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+profile;Glad+to+have+you+here" />
-
 <br><br>
-
 ### Stack
-
-<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB"/>
-<img src="https://img.shields.io/badge/Lua-000000?style=for-the-badge&logo=lua&logoColor=2C2D72"/>
-<img src="https://img.shields.io/badge/Pawno-000000?style=for-the-badge&logo=c&logoColor=A8B9CC"/>
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=js" width="56" height="56"/><br>
+<b>JavaScript</b>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=py" width="56" height="56"/><br>
+<b>Python</b>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=lua" width="56" height="56"/><br>
+<b>Lua</b>
+</td>
+<td align="center" width="120">
+<img width="56" height="56" src="https://cdn.jsdelivr.net/gh/kairen77/kairen77@main/pawno-icon.png" title="Pawno"/><br>
+<b>Pawno</b>
+</td>
+</tr>
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=html" width="56" height="56"/><br>
+<b>HTML</b>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=css" width="56" height="56"/><br>
+<b>CSS</b>
+</td>
+<td align="center" width="120">
+<img width="56" height="56" src="https://cdn.jsdelivr.net/gh/kairen77/kairen77@main/pawno-icon.png" title="Pawno"/><br>
+<b>Pawno</b>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=mysql" width="56" height="56"/><br>
+<b>MySQL</b>
+</td>
+</tr>
+</table>
 <br>
-<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6"/>
-<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
-
-<br><br>
-
 ### Connect
-
 <a href="https://discord.com/users/YOUR_DISCORD_ID">
-<img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=5865F2"/>
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 <a href="https://youtube.com/@YOUR_CHANNEL">
-<img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=FF0000"/>
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 <a href="https://indexcode.tebex.io/">
-<img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=4285F4"/>
+<img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
-
 <br><br>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:0f0f0f&height=100&section=footer"/>
 </div>
