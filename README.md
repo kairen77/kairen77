@@ -1,19 +1,19 @@
- <h1 align="center">kairen77</h1>
+
+<h1 align="center">kairen77</h1>
 
 <p align="center">
-  Developer • Builder • Learner
+  Developer focused on building things that work.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kairen77&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-</p>
-
-<h2 align="center">💻 Languages</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kairen77&layout=normal&langs_count=20&theme=tokyonight&hide_border=true&size_weight=0.5&count_weight=0.5" width="500" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kairen77&show_icons=true&hide_border=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kairen77&layout=compact&hide_border=true&theme=tokyonight" height="150" />
 </p>
 
 <p align="center">
-  <i>Code. Learn. Build. Repeat.</i>
+  <img src="https://komarev.com/ghpvc/?username=kairen77&style=flat&color=blueviolet&label=Profile+Views" />
+</p>
+
+<p align="center">
+  <i>Less talk, more code.</i>
 </p>
