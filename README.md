@@ -1,5 +1,4 @@
-
-<h1 align="center">kairen77</h1>
+ <h1 align="center">kairen77</h1>
 
 <p align="center">
   Developer • Builder • Learner
@@ -7,11 +6,12 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kairen77&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kairen77&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160" />
 </p>
 
+<h2 align="center">💻 Languages</h2>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kairen77&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kairen77&layout=normal&langs_count=20&theme=tokyonight&hide_border=true&size_weight=0.5&count_weight=0.5" width="500" />
 </p>
 
 <p align="center">
