@@ -1,10 +1,7 @@
- 
-<h3 align="center">Building quietly. Shipping consistently.</h3>
+ <div align="center">
 
-<p align="center">
-  FiveM Developer · Web Development
-</p>
+<h2>kai.</h2>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kairen77&style=flat&color=grey" alt="Profile Views" />
-</p>
+<sub>somewhere between thought and reality.</sub>
+
+</div> 
