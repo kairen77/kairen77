@@ -1,3 +1,17 @@
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kairen77&layout=compact&theme=github_dark&langs_count=20" />
+
+# `kairen.dev`
+
+<p><code>PERSONAL PROFILE</code></p>
+
+## Hi, I'm Kairen. 👋
+
+Welcome to my GitHub profile.
+
+<p>
+  Building things · Exploring ideas · Always learning
+</p>
+
+<sub>github.com/kairen77</sub>
+
 </div>
