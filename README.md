@@ -1,13 +1,1 @@
-<p align="center">
-  <img src="./assets/voronoi-territory.svg" alt="kairen77 — Voronoi Territory" width="100%" />
-</p>
-
-### territory
-
-A quiet map of the things I build, the tools I use, and the ideas I explore.
-
-### built with it
-
-- **Moonvera Roleplay** — FiveM roleplay project
-- **Sidejob Systems** — gameplay systems and server features
-
+<div align="center">\n  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kairen77&layout=compact&theme=github_dark&langs_count=8" />\n</div>
